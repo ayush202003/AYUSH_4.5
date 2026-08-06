@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libYellowWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AYUSH_4.5/refs/heads/main/libYellowWh.so"
+      "name": "libGreenWh.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AYUSH_4.5/refs/heads/main/libGreenWh.so"
     }
   ],
   "expiry_date": "2026-08-25",
