@@ -1,15 +1,15 @@
 {
   "libs": [
     {
-      "name": "libUndetectG.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AYUSH_4.5/refs/heads/main/libUndetectG.so"
+      "name": "libitsayushFixed.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AYUSH_4.5/refs/heads/main/libitsayushFixed.so"
     }
   ],
   "expiry_date": "2026-08-25",
   "title": "Application Expired",
   "message": "Application has been Expired,\nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
-"floating_text": "🚀 Premium Undetected - Wallhack Build 🚀",
+"floating_text": "🚀TeleGram-@GX_KINGXX Wallhack Mod Build🚀",
   "wh_enabled": true,
   "wh_expiry": "20260825"
 }
